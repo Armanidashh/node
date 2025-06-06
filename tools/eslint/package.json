@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "@babel/core": "^7.26.0",
+    "@babel/core": "^7.26.10",
     "@babel/eslint-parser": "^7.25.9",
     "@babel/plugin-syntax-import-attributes": "^7.26.0",
     "@stylistic/eslint-plugin-js": "^2.12.1",
